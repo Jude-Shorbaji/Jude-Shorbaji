@@ -5,4 +5,4 @@
 - Working on a Text Adventure!
 
 
-[![Judes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jude-Shorbaji)](https://github.com/Jude-Shorbaji/github-readme-stats) 
+[![Judes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jude-Shorbaji&show_icons=true&theme=swift)](https://github.com/Jude-Shorbaji/github-readme-stats) 
