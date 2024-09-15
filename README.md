@@ -1,8 +1,8 @@
 # Hi! My name is Jude! 
-- High School Senior
-- Majoring in Computer Science in the Fall
-- Currently Learning Python and C++
-- Working on a Text Adventure!
+- Freshman at Rutgers University
+- Majoring in Computer Science
+- Currently Learning Java
+- 
 
 ---
 [![Judes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jude-Shorbaji&show_icons=true&theme=swift)](https://github.com/Jude-Shorbaji/github-readme-stats) 
