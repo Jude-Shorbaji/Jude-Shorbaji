@@ -8,7 +8,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jude-Shorbaji&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Jude-Shorbaji's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jude-Shorbaji&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
